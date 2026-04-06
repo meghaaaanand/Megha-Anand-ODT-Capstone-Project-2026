@@ -1,6 +1,6 @@
 **Project Title**
 
-[Enter your project name here]
+Home Hydroponics System
 
 **📌 Project Overview**
 
