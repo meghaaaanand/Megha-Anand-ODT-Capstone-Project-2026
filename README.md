@@ -4,7 +4,7 @@ Home Hydroponics System
 
 **📌 Project Overview**
 
-[Provide a short description of your project]
+A compact vertical hydroponic system designed for home use, featuring a central pipe with angled plant spouts for efficient spatial distribution. Integrated perforated disc layers regulate staged water flow, improving nutrient delivery. Combined with embedded sensing and control, the system balances functionality, efficiency, and a clean, contemporary aesthetic.
 
 
 **📂 Repository Structure**
@@ -16,16 +16,16 @@ Home Hydroponics System
 
 **⚙️ How to Navigate This Repository**
 
-Electronics Details → Circuit, components justification
+Electronics Details → Circuit Diagram, Components Justification
 
-Mechanical Details → Sketches, CAD, and fabrication
+Mechanical Details → Sketches, CAD, and Fabrication Details
 
-Software Details → Code, logic, and implementation
+Software Details → Codes, Logic, and Implementation
 
-Project Documents → Design thinking, planning, testing
+Project Documents → Design thinking, Planning, Testing
 
-Media → Weekly progress and final output
+Media → Weekly Progress and Final Output
 
 
 **👥 Team Members**
-[Name]
+Megha Anand & Siya Mittal
